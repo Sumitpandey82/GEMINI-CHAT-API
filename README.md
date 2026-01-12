@@ -56,7 +56,7 @@ and learning FastAPI + LLM integration.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/zynexa-chat-api.git
+git clone https://github.com/Sumitpandey82/zynexa-chat-api.git
 cd zynexa-chat-api
 
 # 2. Create virtual environment
